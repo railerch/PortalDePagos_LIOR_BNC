@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "eteamsys/ripcord": "^1.0"
+    }
+}

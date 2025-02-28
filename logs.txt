@@ -1,0 +1,1298 @@
+2024-10-29 14:25:31 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-29 14:26:06 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2024-10-29 14:26:52 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: railer.chalbaud@gmail.com
+2024-10-29 14:27:02 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-29 14:27:06 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-29 16:15:49 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-10-30 08:54:16 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-10-30 08:54:23 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-10-30 08:54:28 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-10-30 08:54:43 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: jsojo@bosto.group
+2024-10-30 08:58:36 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: jose angel  sojo dasco
+2024-10-30 08:59:04 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 09:00:53 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2024-10-30 09:03:36 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 09:08:40 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2024-10-30 09:11:11 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2024-10-30 10:20:33 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-30 10:20:44 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 10:26:15 | Jose Angel  Sojo Dasco | Proceso::validar_pago_p2p |  Detalle: Array
+2024-10-30 10:26:15 | Jose Angel  Sojo Dasco | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 110123075
+2024-10-30 10:28:38 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-30 10:28:48 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 10:31:24 | Railer Chalbaud | Proceso::validar_pago_p2p |  Detalle: Array
+2024-10-30 10:31:25 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 110123075
+2024-10-30 10:32:39 | Railer Chalbaud | Proceso::validar_pago_p2p |  Detalle: Array
+2024-10-30 10:32:40 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 110123075
+2024-10-30 10:34:34 | Railer Chalbaud | Proceso::validar_pago_p2p |  Detalle: {"ClientID":"F500050005","AccountNumber":"01910095202195016021","Amount":2,"BankCode":102,"Reference":110123075,"PhoneNumber":"584121803035"}
+2024-10-30 10:34:34 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 110123075
+2024-10-30 10:38:44 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730299124
+2024-10-30 10:38:44 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 10:40:38 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-30 10:40:45 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 10:40:58 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-30 10:45:24 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-30 10:46:23 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730299583
+2024-10-30 10:46:23 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 10:49:35 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730299775
+2024-10-30 10:49:35 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 10:51:37 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730299896
+2024-10-30 10:51:37 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 10:59:11 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730300350
+2024-10-30 10:59:11 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 11:12:10 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730301130
+2024-10-30 11:12:10 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 11:15:56 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730301356
+2024-10-30 11:15:56 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 11:16:45 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730301405
+2024-10-30 11:16:46 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server
+2024-10-30 11:22:35 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730301755
+2024-10-30 11:22:35 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2024-10-30 11:24:10 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 110123075 por un monto de: 2, Ref interna: R1730301850
+2024-10-30 11:24:10 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2024-10-30 11:24:24 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-10-31 09:27:07 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-10-31 09:49:49 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-01 14:41:15 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-11-01 14:41:26 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-11-26 11:42:13 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: jessika santos 
+2024-11-26 11:42:29 | Jessika Santos  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:23:09 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:23:18 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:23:57 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:33:08 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:33:23 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:33:37 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:34:46 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:34:53 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-11-27 10:48:38 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:52:54 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:53:02 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-11-27 10:53:09 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-27 10:55:01 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-27 10:55:08 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-28 09:28:59 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 564654 no registrado
+2024-11-28 09:31:55 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 564654 no registrado
+2024-11-28 09:35:03 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 654654 no registrado
+2024-11-28 09:35:56 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 54654654 no registrado
+2024-11-28 09:36:24 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 54654564 no registrado
+2024-11-28 12:35:29 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: angel josé escalona torres 
+2024-11-28 12:35:43 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-28 12:37:29 | Angel José Escalona Torres  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-28 12:47:52 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-28 12:53:54 | Angel José Escalona Torres  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-11-28 12:54:01 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-28 12:54:03 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-29 08:21:42 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-11-30 14:51:46 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: jessika medina 
+2024-11-30 14:52:19 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-03 08:58:08 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-03 08:58:22 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: j.diaz@liorcosmetics.com
+2024-12-03 08:58:28 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: jhonnyd1229@gmail.com
+2024-12-03 08:59:13 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: jhonny diaz
+2024-12-03 08:59:36 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-03 09:12:52 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 125664155 no registrado
+2024-12-03 09:13:25 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 72786 no registrado
+2024-12-03 09:15:02 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 72787 no registrado
+2024-12-03 09:15:25 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 72790 no registrado
+2024-12-03 09:15:45 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 72793 no registrado
+2024-12-03 09:15:56 | Jhonny Diaz | Proceso::validar_nota_entrega |  Detalle: Documento 72794 no registrado
+2024-12-03 11:15:19 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-04 12:12:54 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-05 09:36:19 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: carmen bastidas
+2024-12-05 09:36:28 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-05 09:40:15 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: ritzabeth teran
+2024-12-05 09:40:21 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-05 09:45:43 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: reynaldo jimenez
+2024-12-05 09:46:11 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-11 09:16:00 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-17 09:18:37 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-17 09:48:31 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-17 09:51:44 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-17 09:52:05 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-17 09:55:07 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-17 09:56:12 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-17 09:56:19 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-17 09:56:26 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-17 16:42:40 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-17 16:42:46 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:24:06 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-12-18 10:24:13 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-12-18 10:24:31 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-12-18 10:24:51 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:25:04 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2024-12-18 10:25:48 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:26:17 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:26:44 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: joseangeldasco@gmail.com
+2024-12-18 10:26:51 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:27:23 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-12-18 10:27:30 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2024-12-18 10:27:57 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:29:51 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:30:52 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 10:36:42 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 10:36:50 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:36:53 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 10:36:59 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:37:57 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:38:15 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:38:33 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:40:47 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 10:40:54 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:41:06 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:41:27 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 10:41:38 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 10:58:02 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 10:58:10 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 11:08:42 | Jose Angel  Sojo Dasco | Proceso::validar_nota_entrega |  Detalle: Documento 38161 no registrado
+2024-12-18 11:10:23 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG83 -  Transaccion Rechazada
+2024-12-18 11:10:40 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG83 -  Transaccion Rechazada
+2024-12-18 11:11:41 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 111255, Ref: 111255
+2024-12-18 11:11:43 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 11:15:17 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2024-12-18 11:16:31 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 11:27:27 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 11:27:33 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2024-12-18 12:01:30 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 12:02:06 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 12:05:33 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 12:05:43 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 12:07:43 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-12-18 12:08:02 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 12:16:06 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 12:16:14 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2024-12-18 12:17:42 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: railer.chalbaud@gmail.com
+2024-12-18 12:17:53 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 12:19:24 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 12:19:27 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2024-12-18 12:19:35 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 12:19:56 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: railer.chalbaud@gmail.com
+2024-12-18 13:56:05 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 14:10:32 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 14:14:32 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 14:14:39 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 14:17:54 | Jose Angel  Sojo Dasco | Proceso::validar_nota_entrega |  Detalle: Documento 41545 no registrado
+2024-12-18 14:18:23 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 141937, Ref: 141937
+2024-12-18 14:18:23 | Jose Angel  Sojo Dasco | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2024-12-18 14:24:56 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 14:25:08 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 14:36:45 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-18 14:41:05 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-18 14:50:59 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-19 14:30:14 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-19 14:30:30 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-19 14:30:37 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-19 14:31:10 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2024-12-27 20:02:42 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: maria
+2024-12-27 20:02:55 | Maria | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2024-12-27 20:03:42 | Maria | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-02 23:27:05 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: eduardo garces
+2025-01-02 23:27:34 | Eduardo Garces | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-03 17:01:46 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: yosmaury hernández 
+2025-01-03 17:01:54 | Yosmaury Hernández  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-03 17:02:00 | Yosmaury Hernández  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-03 17:02:49 | Yosmaury Hernández  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-08 09:30:20 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: yudith gelviz
+2025-01-08 09:30:44 | Yudith Gelviz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-08 17:05:42 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: yeismy meza
+2025-01-13 08:48:57 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a yeimilena111@gmail.com
+2025-01-13 08:50:28 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: yeimilena111@gmail.com
+2025-01-13 08:55:55 | Yeismy Meza | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 08:37:54 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 08:59:58 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-14 09:00:16 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-14 09:00:49 | Yeismy Meza | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 09:46:36 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 1451490715
+2025-01-14 09:48:10 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 1451490715
+2025-01-14 09:51:05 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-14 09:51:11 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-14 09:51:25 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2025-01-14 09:51:46 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: railer.chalbaud@gmail.com
+2025-01-14 09:51:56 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 09:55:15 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 09:55:46 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-14 09:55:54 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 10:00:18 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'ref_bnc' at row 1
+2025-01-14 10:11:39 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'ref_bnc' at row 1
+2025-01-14 10:11:47 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 10:11:54 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 10:19:24 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 10:19:31 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 10:20:01 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 105, Ref: 401451491537 por un monto de: 1, Ref interna: R1736864400
+2025-01-14 10:20:01 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-14 10:21:13 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 401451491532
+2025-01-14 10:21:25 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 401451491539
+2025-01-14 10:21:34 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 401451491539
+2025-01-14 10:47:04 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 11:34:58 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-14 11:35:08 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 12:09:04 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 105, Ref: 500796 por un monto de: 1.5, Ref interna: R1736870944
+2025-01-14 12:09:04 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-14 12:11:15 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 12:19:28 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 12:22:07 | Jose Angel  Sojo Dasco | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 89053 por un monto de: 1, Ref interna: R1736871727
+2025-01-14 12:22:08 | Jose Angel  Sojo Dasco | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-14 12:27:40 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 15:17:44 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 15:21:51 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 506581 por un monto de: 1.5, Ref interna: R1736882511
+2025-01-14 15:21:51 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-14 15:22:21 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 490715
+2025-01-14 15:22:47 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 90715
+2025-01-14 15:24:14 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 90715
+2025-01-14 15:24:22 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-14 15:36:44 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 90715
+2025-01-14 15:38:02 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 105, Ref: 490715 por un monto de: 1, Ref interna: R1736883482
+2025-01-14 15:38:02 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-14 15:40:55 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-14 15:44:50 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:04:08 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 108, Ref: 4959 por un monto de: 1, Ref interna: R1736946248
+2025-01-15 09:04:08 | Jhonny Diaz | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-15 09:13:38 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:13:43 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 09:25:10 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 09:26:39 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:26:46 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 09:32:48 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:32:55 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 09:46:16 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:46:22 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 09:46:41 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 09:59:52 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 10:06:21 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 11:46:28 | Admin | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-15 11:46:31 | Admin | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-15 11:46:35 | Admin | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-15 11:46:46 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 11:46:50 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 12:28:22 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 15:27:07 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 15:27:10 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 15:27:41 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-15 15:27:52 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-15 15:28:30 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-15 15:28:34 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-16 11:45:35 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-16 11:51:43 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: ionne fransherly nazareth lara martinez 
+2025-01-16 11:51:59 | Ionne Fransherly Nazareth Lara Martinez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-16 11:52:50 | Ionne Fransherly Nazareth Lara Martinez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-20 14:14:43 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-20 14:15:03 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-20 16:52:43 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 09:50:11 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 10:32:35 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 10:32:42 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 10:34:22 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 10:34:30 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 10:34:31 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY fec_emis DESC' at line 16
+2025-01-21 10:34:36 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY fec_emis DESC' at line 16
+2025-01-21 10:34:40 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY fec_emis DESC' at line 16
+2025-01-21 10:44:07 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 10:44:14 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:07:55 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 8
+2025-01-21 11:08:23 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 8
+2025-01-21 11:09:23 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 8
+2025-01-21 11:10:54 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:11:02 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:11:12 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:11:29 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:11:33 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 8
+2025-01-21 11:12:05 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 8
+2025-01-21 11:21:22 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:22:48 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:22:54 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:22:56 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:22:59 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:23:01 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:23:19 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:24:40 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:24:42 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:25:57 | Admin | Proceso::historial_pagos_documentos |  Detalle: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM historial_pagos 
+            JOIN detalles_pagos ON historial_pagos.ref_...' at line 15
+2025-01-21 11:30:49 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: reynaldojimenez16@gmail.com
+2025-01-21 11:31:25 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: reynaldojimenez16@gmail.com
+2025-01-21 11:31:56 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:31:57 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:32:01 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a cobranzas2.lior@gmail.com
+2025-01-21 11:32:04 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:32:18 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:32:53 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: cobranzas2.lior@gmail.com
+2025-01-21 11:33:09 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:39:38 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:39:47 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:40:45 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 11:40:53 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 11:41:51 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'detalles_pagos.abono' in 'field list'
+2025-01-21 11:42:20 | Railer Chalbaud | Proceso::consultar_historial_pagos |  Detalle: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'detalles_pagos.abono_us' in 'field list'
+2025-01-21 11:48:39 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 22945
+2025-01-21 11:51:15 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 105, Ref: 23240 por un monto de: 2, Ref interna: R1737474674
+2025-01-21 11:51:15 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-21 11:54:02 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 13:25:02 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 14:49:49 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 15:37:27 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-21 15:39:59 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-21 15:57:39 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-21 15:58:11 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-21 15:58:18 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-21 16:02:08 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:04:05 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:06:22 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:08:02 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:08:11 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 944412 por un monto de: 10, Ref interna: R1737490091
+2025-01-21 16:08:11 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-21 16:08:39 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:09:58 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:10:25 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:11:15 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:11:47 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:13:16 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:13:24 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 944412
+2025-01-21 16:14:23 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 944412
+2025-01-21 16:15:02 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 44412
+2025-01-21 16:15:57 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 944412
+2025-01-21 16:17:32 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 944412 por un monto de: 10, Ref interna: R1737490652
+2025-01-21 16:17:32 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-01-21 16:18:23 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:19:49 | Reynaldo Jimenez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:20:19 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-21 16:20:35 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a cobranzas2.lior@gmail.com
+2025-01-21 16:20:52 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:20:59 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:21:20 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: cobranzas2.lior@gmail.com
+2025-01-21 16:21:32 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:22:16 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Se ha realizado un pago por un monto de 2 Bs. referencia: R1737490934
+2025-01-21 16:22:16 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: C2P procesado por un monto de 2,00, Nro de Referencia: 861055 Ref: 00
+2025-01-21 16:22:17 | Reynaldo Jimenez | Proceso::procesar_pago_c2p |  Detalle: Email de trasacción exitosa enviado.
+2025-01-21 16:25:05 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:25:10 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:26:19 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:26:25 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:26:32 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:26:42 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:27:11 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:27:18 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:27:31 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:27:47 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:27:49 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:12 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:14 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:17 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:29 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:29 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:32 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:28:35 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:28:42 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:29:02 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-21 16:29:33 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Se ha realizado un pago por un monto de 2 Bs. referencia: R1737491370
+2025-01-21 16:29:33 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: C2P procesado por un monto de 2,00, Nro de Referencia: 861108 Ref: 00
+2025-01-21 16:29:33 | Railer Chalbaud | Proceso::procesar_pago_c2p |  Detalle: Email de trasacción exitosa enviado.
+2025-01-21 16:30:48 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:30:56 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 16:33:22 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:33:22 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 16:58:38 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 17:46:42 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: juana tovar
+2025-01-21 17:47:33 | Juana Tovar | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 17:50:24 | Juana Tovar | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 17:50:43 | Juana Tovar | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 17:51:49 | Juana Tovar | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 19:34:05 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: leydy urbaez
+2025-01-21 19:34:19 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 19:41:48 | Leydy Urbaez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 19:41:56 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-21 20:45:43 | Leydy Urbaez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-21 20:45:48 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-22 08:43:27 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-22 09:12:31 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-22 11:20:33 | Angel José Escalona Torres  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-22 11:20:37 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-22 12:46:49 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-22 14:24:04 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-22 16:05:16 | Angel José Escalona Torres  | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 962703
+2025-01-22 16:17:58 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 10:32:15 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 10:34:33 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 10:37:54 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 10:39:47 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 11:28:00 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 11:28:20 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 12:24:47 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: luis dominguez 
+2025-01-23 12:25:08 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 12:31:59 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 12:32:12 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 12:32:25 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 12:32:36 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 12:45:35 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 12:45:46 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 12:47:43 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-23 13:54:41 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 13:54:53 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 15:34:25 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: rociel mendez
+2025-01-23 15:34:44 | Rociel Mendez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 16:53:16 | offline | Proceso::registrar_cliente |  Detalle: Intento de nuevo registro con cliente ya registrado: eduardo garces
+2025-01-23 16:53:43 | Eduardo Garces | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-23 16:55:25 | Eduardo Garces | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-24 07:56:59 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-24 07:58:26 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-24 10:50:50 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-24 10:50:55 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-24 15:58:36 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-24 15:59:13 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-24 16:18:39 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-25 15:09:44 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: solibella perdomo maldonado 
+2025-01-25 15:10:47 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-26 11:54:39 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: yuly pérez rosas 
+2025-01-27 08:08:59 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 09:27:35 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: iraima anabel araque echenique
+2025-01-27 09:27:45 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 09:42:17 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 734886
+2025-01-27 09:44:23 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 734886
+2025-01-27 09:46:35 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 734886
+2025-01-27 14:00:04 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:16:58 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:21:04 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:33:25 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:33:38 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:34:02 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: reynaldojimenez16@gmail.com
+2025-01-27 15:34:13 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:35:48 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:38:03 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:38:34 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:38:45 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:39:34 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:43:43 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:43:47 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:46:39 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:46:57 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:47:00 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:47:06 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: reynaldojimenez16@gmail.com
+2025-01-27 15:48:20 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:48:52 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:50:53 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:52:32 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:52:44 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:52:50 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:53:02 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:53:07 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:54:19 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:54:34 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 15:55:01 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:55:27 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-01-27 15:55:39 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 15:56:12 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-27 15:56:28 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:57:14 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 15:57:48 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:01:51 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:04:16 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:26:12 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: cobranzas2.lioir@gmail.com
+2025-01-27 16:26:26 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: cobranzas2.lioir@gmail.com
+2025-01-27 16:26:58 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:27:27 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 16:28:32 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 16:28:43 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:28:53 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:28:58 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:29:15 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:29:56 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:30:00 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 16:30:15 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo no registrado: railer@bosto.group
+2025-01-27 16:30:22 | offline | Proceso::solicitar_cambio_clave |  Detalle: railer.chalbaud@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:30:34 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-27 16:32:07 | offline | Proceso::solicitar_cambio_clave |  Detalle: cobranzas2.lior@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-27 16:35:23 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 16:37:41 | Admin | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a railer.chalbaud@gmail.com
+2025-01-27 16:37:44 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 16:38:08 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: railer.chalbaud@gmail.com
+2025-01-27 16:38:44 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-27 20:45:37 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-27 20:46:40 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-28 07:39:05 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-28 08:22:20 | offline | Proceso::solicitar_cambio_clave |  Detalle: Correo de recuperación de clave enviado a cobranzas2.lior@gmail.com
+2025-01-28 08:23:04 | offline | Proceso::cambiar_clave |  Detalle: Se cambio de clave del cliente: cobranzas2.lior@gmail.com
+2025-01-28 08:23:14 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-28 09:26:03 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-28 11:49:33 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: karlys guarisma
+2025-01-28 11:49:50 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-28 11:50:22 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-28 11:50:30 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-28 14:58:15 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-28 15:00:21 | Angel José Escalona Torres  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 779434 por un monto de: 566.5, Ref interna: R1738090821
+2025-01-28 15:00:23 | Angel José Escalona Torres  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-28 17:17:10 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 08:09:50 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 09:34:40 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:24:26 | Solibella Perdomo Maldonado  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-29 10:24:31 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:41:25 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:41:28 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:41:37 | Angel José Escalona Torres  | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-29 10:41:46 | Angel José Escalona Torres  | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-29 10:42:20 | Angel José Escalona Torres  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-29 10:42:26 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:42:29 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 10:42:34 | Angel José Escalona Torres  | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-29 11:27:57 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:32:53 | Leydy Urbaez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: ECBG55 - 000000PIN Incorrecto
+2025-01-29 11:34:44 | Leydy Urbaez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: ECBG55 - 000000PIN Incorrecto
+2025-01-29 11:38:32 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:39:33 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-29 11:43:02 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:45:44 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 623618 por un monto de: 8100, Ref interna: R1738165544
+2025-01-29 11:45:46 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-29 11:46:03 | Juana Tovar | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:49:43 | Leydy Urbaez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-29 11:53:51 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:54:36 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-29 11:54:57 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 11:56:16 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 641590 por un monto de: 1300, Ref interna: R1738166176
+2025-01-29 11:56:18 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-29 11:59:31 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 12:17:07 | Solibella Perdomo Maldonado  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-29 13:04:04 | offline | Proceso::registrar_cliente |  Detalle: Registro de nuevo cliente: martina marquez 
+2025-01-29 13:04:27 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-29 13:04:48 | offline | Proceso::solicitar_cambio_clave |  Detalle: martinamarquezg@gmail.com: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-29 13:45:06 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-29 16:31:44 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-30 09:26:27 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-30 09:27:01 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 09:04:22 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 09:39:22 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 09:39:54 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 09:46:43 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:00:21 | Leydy Urbaez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 10:05:48 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:07:34 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 10:07:41 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:08:03 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:08:29 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:08:41 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:08:59 | Leydy Urbaez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:12:13 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2025-01-31 10:12:34 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2025-01-31 10:14:08 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2025-01-31 10:15:35 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG39 -  Cuenta No posee Credito
+2025-01-31 10:16:55 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG12 -  Invalido
+2025-01-31 10:17:21 | Leydy Urbaez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:17:46 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG30 -  Fallo Actualizacion
+2025-01-31 10:18:15 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG12 -  Invalido
+2025-01-31 10:18:23 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 10:18:29 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 10:19:45 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:21:34 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:22:20 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:33:03 | Leydy Urbaez | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 946228
+2025-01-31 10:41:36 | Leydy Urbaez | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-01-31 10:43:11 | Leydy Urbaez | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-01-31 10:43:15 | Leydy Urbaez | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-01-31 10:43:43 | Leydy Urbaez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:45:33 | Leydy Urbaez | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:49:33 | Leydy Urbaez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:53:48 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 10:54:26 | Reynaldo Jimenez | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:58:58 | Jhonny Diaz | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:59:00 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:59:17 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 10:59:40 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 10:59:45 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 10:59:45 | Jhonny Diaz | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 10:59:53 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 10:59:54 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:00:02 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:00:17 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-31 11:00:22 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-01-31 11:00:31 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:01:01 | Jhonny Diaz | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 11:01:25 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:01:29 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:02:53 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:03:37 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:04:29 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:04:32 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:04:50 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 11:04:54 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 11:04:56 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 11:05:34 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Se ha realizado un pago por un monto de 5 Bs. referencia: R1738335932
+2025-01-31 11:05:35 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: C2P procesado por un monto de 5,00, Nro de Referencia: 915675 Ref: 00
+2025-01-31 11:05:37 | Ritzabeth Teran | Proceso::procesar_pago_c2p |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-31 11:05:54 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:06:01 | Jhonny Diaz | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-01-31 11:06:04 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:07:13 | Admin | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:07:21 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:07:25 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:08:23 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:08:30 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:08:30 | Carmen Bastidas | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:08:36 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:08:42 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:08:48 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:09:03 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-01-31 11:09:19 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:10:20 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:10:53 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:11:26 | Carmen Bastidas | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:11:29 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:11:38 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:13:16 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:14:30 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:14:34 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:26:57 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:27:59 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:29:31 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 113045, Ref: 113045
+2025-01-31 11:29:33 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-01-31 11:31:16 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBCO1 -  Comercio NO Existe
+2025-01-31 11:31:58 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:35:23 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:43:59 | Reynaldo Jimenez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:44:07 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 11:45:00 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-01-31 11:45:05 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 13:34:18 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-01-31 14:00:25 | Reynaldo Jimenez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-02 20:37:27 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-02 20:39:29 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 619866 por un monto de: 1320, Ref interna: R1738543169
+2025-02-02 20:39:31 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-02 20:41:56 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 636394 por un monto de: 871.03, Ref interna: R1738543316
+2025-02-02 20:41:58 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-02 20:42:47 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 679124 por un monto de: 3478.2, Ref interna: R1738543367
+2025-02-02 20:42:49 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-02 23:01:04 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-02 23:03:38 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-03 08:15:30 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-03 09:20:34 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 104, Ref: 890325 por un monto de: 8696, Ref interna: R1738588834
+2025-02-03 09:20:37 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 09:21:55 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 890432 por un monto de: 6841, Ref interna: R1738588915
+2025-02-03 09:21:57 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 09:23:21 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 900975 por un monto de: 1000, Ref interna: R1738589000
+2025-02-03 09:23:23 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 09:26:26 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 842914 no registrado
+2025-02-03 09:27:14 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 842914 por un monto de: 6266.03, Ref interna: R1738589234
+2025-02-03 09:27:16 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 09:46:10 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 736829
+2025-02-03 09:47:24 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 736829 por un monto de: 3075.3, Ref interna: R1738590444
+2025-02-03 09:47:26 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 09:54:31 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-03 10:36:21 | Solibella Perdomo Maldonado  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-03 10:45:28 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-03 10:46:50 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 927190 por un monto de: 1033, Ref interna: R1738594009
+2025-02-03 10:46:52 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 11:06:26 | Solibella Perdomo Maldonado  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-03 11:29:11 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 789378 por un monto de: 4090.8, Ref interna: R1738596551
+2025-02-03 11:29:13 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 11:57:07 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-03 19:03:58 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-03 19:13:16 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 970847 por un monto de: 2600, Ref interna: R1738624396
+2025-02-03 19:13:18 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 22:33:13 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 995898 por un monto de: 5000, Ref interna: R1738636393
+2025-02-03 22:33:15 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 22:35:33 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:36:21 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:36:29 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:37:06 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:37:57 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:38:31 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 22:39:07 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 13181 no registrado
+2025-02-03 22:39:43 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 995659 por un monto de: 1000, Ref interna: R1738636782
+2025-02-03 22:39:45 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-03 22:40:44 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-03 23:36:40 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-04 10:07:34 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-04 10:09:21 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 10:28:31 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 10:34:24 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 10:50:42 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 663028
+2025-02-04 11:05:05 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-04 11:05:22 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 11:47:52 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 663028 por un monto de: 5142.72, Ref interna: R1738684072
+2025-02-04 11:47:54 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 11:51:11 | Reynaldo Jimenez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-04 11:51:37 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 14:22:43 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 14:27:11 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 601382 por un monto de: 4100, Ref interna: R1738693631
+2025-02-04 14:27:14 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 14:28:15 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 830344 por un monto de: 11700, Ref interna: R1738693695
+2025-02-04 14:28:17 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 14:30:46 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 723651 por un monto de: 7600, Ref interna: R1738693846
+2025-02-04 14:30:48 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 14:31:16 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 830079 por un monto de: 7500, Ref interna: R1738693876
+2025-02-04 14:31:18 | Luis Dominguez  | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 14:31:29 | Luis Dominguez  | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-04 22:19:15 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-04 23:01:46 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 7120 por un monto de: 17482.97, Ref interna: R1738724505
+2025-02-04 23:01:48 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-04 23:05:04 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 976985 por un monto de: 2337.6, Ref interna: R1738724704
+2025-02-04 23:05:06 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 09:37:10 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 09:41:59 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 10:03:23 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 261676 por un monto de: 10000, Ref interna: R1738764202
+2025-02-05 10:03:25 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 10:06:00 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 191, Ref: 2816 por un monto de: 4000, Ref interna: R1738764360
+2025-02-05 10:06:02 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 10:18:25 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 10:37:29 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 335469
+2025-02-05 10:39:14 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 335469
+2025-02-05 10:40:33 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 11:11:24 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 11:12:42 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 11:15:19 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-05 11:15:26 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 11:22:06 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:22:36 | Carmen Bastidas | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:23:37 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 11:23:41 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 11:27:34 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 11:27:42 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 11:27:57 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:28:35 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:28:55 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:29:04 | Reynaldo Jimenez | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 888598
+2025-02-05 11:37:26 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 113840, Ref: 113840
+2025-02-05 11:37:28 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de transacción no enviado: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 11:43:31 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 11:43:40 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 114454, Ref: 114454
+2025-02-05 11:43:40 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-05 11:43:41 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 12:49:52 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 12:50:24 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 12:50:34 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 12:50:48 | offline | Proceso::solicitar_cambio_clave |  Detalle: jsojo@bosto.group: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-02-05 12:52:27 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 12:58:38 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 12:58:43 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 12:58:50 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 12:59:02 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 13:05:30 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 13:24:14 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 13:24:25 | Iraima Anabel Araque Echenique | Proceso::procesar_pago_c2p |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-05 13:41:47 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 13:41:48 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 13:41:58 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 13:45:58 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 599903
+2025-02-05 13:46:07 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 599903 por un monto de: 1000, Ref interna: R1738777567
+2025-02-05 13:46:08 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-05 14:06:05 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 497069 por un monto de: 1461, Ref interna: R1738778765
+2025-02-05 14:06:05 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-05 14:12:35 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 102, Ref: 888598 por un monto de: 1168.8, Ref interna: R1738779154
+2025-02-05 14:12:35 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-05 14:40:58 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-05 14:41:03 | offline | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-05 14:41:05 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 14:41:11 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-05 14:41:15 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 15:02:41 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-05 22:36:07 | Angel José Escalona Torres  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 09:09:04 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 09:09:12 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:20:49 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:20:57 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:23:25 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:23:33 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:24:24 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:24:32 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:26:18 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:26:26 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:43:57 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:46:04 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:46:18 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 10:48:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 10:48:24 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:50:08 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-06 10:50:16 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:50:54 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 10:52:25 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:57:19 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 10:58:35 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 10:58:43 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 10:59:51 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 11:04:06 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:04:13 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:05:56 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:06:03 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:10:17 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:10:24 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:11:04 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:11:10 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:12:03 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:12:08 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:12:20 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:12:27 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:14:11 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 11:16:04 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:20:14 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 11:20:21 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 12:10:20 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 12:13:29 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 12:22:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 12:23:13 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-06 14:09:26 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 14:37:27 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 458965 no registrado
+2025-02-06 14:38:14 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 654687 no registrado
+2025-02-06 14:38:14 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 654687 no registrado
+2025-02-06 14:47:45 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 68595 no registrado
+2025-02-06 14:49:36 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 568965 no registrado
+2025-02-06 16:44:17 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-06 16:44:22 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: EPIEDD - Error de comunicación.
+2025-02-06 16:47:09 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-06 16:47:16 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 16:50:27 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 165141, Ref: 165141
+2025-02-06 16:50:27 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-06 17:47:59 | Luis Dominguez  | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-06 21:48:06 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 777540
+2025-02-06 21:48:50 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 777540 no registrado
+2025-02-06 21:49:41 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 777540
+2025-02-06 22:32:03 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 327705
+2025-02-06 22:33:02 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 327705
+2025-02-06 22:34:45 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 965654
+2025-02-06 22:35:08 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 10:08:02 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 10:08:09 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 13:18:47 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 14:01:18 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 14:06:16 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:06:44 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:12:24 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:12:49 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:17:49 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:18:43 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:18:53 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:52:00 | Iraima Anabel Araque Echenique | Proceso::validar_nota_entrega |  Detalle: Documento 7 no registrado
+2025-02-07 14:53:09 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:09 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:09 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:09 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:09 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:09 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 14:53:21 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 15:02:54 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:03:30 | Reynaldo Jimenez | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 15:03:44 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 15:04:39 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:04:42 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 15:06:49 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:12:25 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 15:19:38 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:22:28 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:24:46 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:28:00 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:30:18 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:30:30 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:30:54 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:31:15 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:34:15 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:34:52 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:36:09 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:36:40 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:38:00 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:38:30 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:38:53 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:39:59 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:40:46 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:43:19 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:44:52 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:47:20 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:48:22 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 15:48:34 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 15:49:22 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 15:50:01 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 155115, Ref: 155115
+2025-02-07 15:50:01 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-07 15:55:42 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 155656, Ref: 155656
+2025-02-07 15:55:42 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-07 16:02:26 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Error de transacción: cod: ECBG01 -  Error en Cedula
+2025-02-07 16:02:38 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Cod: 000000 - Transacción procesada exitosamente, Nro de Referencia: 160351, Ref: 160351
+2025-02-07 16:02:38 | Railer Chalbaud | Proceso::procesar_pago_vpos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-07 16:19:19 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:19:25 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:20:20 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:20:26 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:25:05 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:25:11 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:25:16 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:25:22 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:25:54 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:26:02 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:32:39 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:39:17 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:43:09 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:44:08 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:45:06 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:46:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:48:15 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:48:50 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:48:59 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:49:14 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:49:31 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-07 16:56:22 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 16:56:30 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 16:59:29 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-07 20:46:50 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-07 20:50:16 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Se ha reportado un PMOV del banco con Cod: 105, Ref: 305960 por un monto de: 2, Ref interna: R1738975816
+2025-02-07 20:50:16 | Railer Chalbaud | Proceso::registrar_pagos_otros_bancos |  Detalle: Email de trasacción exitosa enviado.
+2025-02-07 20:50:35 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-09 19:25:23 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-09 19:25:41 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 09:49:57 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-10 09:50:04 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 12:34:06 | Iraima Anabel Araque Echenique | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 14:56:11 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:15:30 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:15:33 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:15:37 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:15:37 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:15:39 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:15:45 | Reynaldo Jimenez | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:17:19 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:17:22 | Carmen Bastidas | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:17:22 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:17:26 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:20:39 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:20:48 | Jhonny Diaz | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:20:52 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:20:57 | Carmen Bastidas | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:21:27 | Ritzabeth Teran | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:21:27 | Jhonny Diaz | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-10 16:21:34 | Ritzabeth Teran | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 16:21:36 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-10 18:05:27 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 553165
+2025-02-10 18:06:03 | Iraima Anabel Araque Echenique | Proceso::registrar_pagos_otros_bancos |  Detalle: Error en datos de pago, Ref: 553165
+2025-02-10 18:06:19 | Iraima Anabel Araque Echenique | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-11 11:18:06 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-11 11:18:36 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-11 11:41:39 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-11 11:46:23 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-11 11:46:33 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-11 12:01:03 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-11 12:01:32 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-11 13:51:11 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 13:51:36 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:00:44 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:01:24 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:17:55 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:26:08 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:28:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:30:24 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 14:32:07 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:35:58 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:36:22 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:37:39 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:39:40 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:39:56 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 15:42:11 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 16:37:02 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 16:39:04 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-11 16:45:03 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-12 10:35:53 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-12 10:35:53 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 61258 no registrado
+2025-02-12 14:19:37 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 14:25:55 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 14:46:42 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 15:15:17 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 6 no registrado
+2025-02-12 15:15:17 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 1 no registrado
+2025-02-12 15:17:10 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 683361256 no registrado
+2025-02-12 15:28:05 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 15:30:55 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 68336125 no registrado
+2025-02-12 15:31:36 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 685698 no registrado
+2025-02-12 15:33:46 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 687336 no registrado
+2025-02-12 15:35:09 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 15:35:29 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 56985968 no registrado
+2025-02-12 15:35:44 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 15:39:22 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 16:11:13 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-12 16:11:57 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 16:13:38 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 16:14:06 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Respuesta desconocida desde el servidor
+2025-02-12 16:25:57 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento 52563698 no registrado
+2025-02-12 16:26:11 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: 
+2025-02-12 16:29:13 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: 
+2025-02-12 16:29:42 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: 
+2025-02-12 16:30:38 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: 
+2025-02-12 16:31:42 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: 
+2025-02-12 16:46:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento #65241258 no encontrado
+2025-02-12 16:46:20 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: (HTTP 404) consulta invalida, parametros de busqueda incorrectos.
+2025-02-12 16:47:27 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: (HTTP 404) consulta invalida, parametros de busqueda incorrectos.
+2025-02-12 16:47:30 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento #6833674 no encontrado
+2025-02-12 16:51:01 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: (HTTP 404) consulta invalida, parametros de busqueda incorrectos.
+2025-02-12 16:51:06 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento #525698 no encontrado
+2025-02-12 16:54:12 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: Documento #525636985 no encontrado
+2025-02-12 16:54:17 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: (HTTP 404) consulta invalida, parametros de busqueda incorrectos.
+2025-02-13 10:03:58 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-13 10:44:46 | Railer Chalbaud | Proceso::validar_nota_entrega |  Detalle: (HTTP 404) consulta invalida, parametros de busqueda incorrectos.
+2025-02-13 16:28:49 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-13 16:53:27 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:39:57 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:40:06 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:40:16 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:40:27 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:48:02 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:48:10 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:50:58 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:51:04 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:53:26 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:53:32 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:54:23 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:54:29 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 11:54:29 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 11:54:34 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 11:54:46 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión iniciada
+2025-02-14 12:03:13 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:03:20 | offline | Proceso::autenticar_clienteGUID |  Detalle: Autenticación de ClientGUI sin exito.
+2025-02-14 12:03:20 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:03:26 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: Autenticación de ClientGUI sin exito.
+2025-02-14 12:03:26 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:04:39 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:04:39 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:04:44 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:05:00 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:05:00 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:05:06 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:05:27 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:05:27 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:05:54 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:06:13 | offline | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:06:13 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:06:18 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:06:18 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:09:28 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:09:28 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:09:38 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:10:13 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:11:58 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:12:15 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:14:56 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:28:29 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:08 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:50 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:50 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:51 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:51 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:52 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:52 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:53 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:29:53 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:31:09 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:31:09 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:31:21 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:21 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:22 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:22 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:23 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:23 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:31:23 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:31:49 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:31:49 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:32:00 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:00 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:01 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:01 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:02 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:03 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:32:03 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:34:13 | offline | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:13 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:34:24 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:34:24 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:34:32 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:33 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:33 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:34 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:34 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:35 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:34:35 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 12:34:52 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:34:52 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 12:35:13 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 12:35:33 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:33 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:34 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:34 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:35 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:36 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 12:35:36 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:36:23 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:36:23 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:36:42 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:36:50 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:36:50 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:36:59 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:37:17 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:17 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:18 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:18 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:19 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:19 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: EPIEDDError de comunicación.
+2025-02-14 13:37:20 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:37:54 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:37:54 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:39:11 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:39:19 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:39:19 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:40:08 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:40:25 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:40:25 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:41:10 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 13:41:17 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 13:41:17 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 13:54:42 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 14:46:55 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 14:46:55 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 14:48:00 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 14:48:17 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 14:48:17 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 15:49:25 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:53:20 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:53:20 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 15:53:30 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:53:30 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 15:53:38 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:53:38 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-14 15:55:18 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:55:18 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-14 15:55:26 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:56:33 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:56:40 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:56:50 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:56:57 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 15:57:40 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 16:45:42 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 16:54:36 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-14 16:56:01 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 09:42:48 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 09:42:48 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 09:48:17 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 09:54:16 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 09:57:05 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 10:21:07 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 10:21:07 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 10:22:07 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 10:22:13 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión de reportes inicializada
+2025-02-17 10:25:28 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:21:58 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:21:58 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:22:24 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:22:29 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:22:29 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:24:32 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:30:48 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:30:48 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:33:48 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:36:52 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:36:53 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:37:11 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:37:11 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:37:26 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión de reportes inicializada
+2025-02-17 11:37:26 | Admin | Proceso::iniciar_sesion |  Detalle: Sesión de reportes inicializada
+2025-02-17 11:37:54 | Admin | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:39:55 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:39:55 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-17 11:39:55 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:39:55 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-17 11:40:03 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:40:03 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:40:03 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:40:03 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:41:12 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:41:13 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:47:51 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:47:51 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-02-17 11:47:52 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:47:52 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 401
+2025-02-17 11:47:59 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:47:59 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:47:59 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:47:59 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 11:53:04 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:53:04 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 11:59:10 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 11:59:10 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 12:01:56 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:01:56 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:01:56 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:01:57 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:01:58 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:01:58 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:02:25 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:02:29 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:02:30 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:02:30 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-17 12:02:55 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 12:02:55 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 12:04:24 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:24 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-17 12:04:25 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:25 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-17 12:04:31 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:31 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:04:31 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:31 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:04:51 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 12:04:56 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:56 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:04:56 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:04:56 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:05:20 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:05:20 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:05:20 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-17 12:05:20 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-17 12:05:32 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-17 12:08:03 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-18 11:29:00 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 11:29:00 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 11:29:00 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 11:29:00 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 11:29:30 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-18 11:29:30 | offline | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-18 11:34:17 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 11:34:17 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 11:34:17 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 11:34:17 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 11:34:39 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-18 12:11:03 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 12:11:03 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 12:11:04 | Railer Chalbaud | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 12:11:04 | Railer Chalbaud | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 12:11:05 | Railer Chalbaud | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-18 12:11:24 | Railer Chalbaud | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-18 12:13:31 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 12:13:31 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 12:13:32 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-18 12:13:32 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-18 12:23:26 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-25 11:06:51 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 11:06:51 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 11:06:51 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 11:06:51 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 11:09:32 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-25 13:39:55 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:39:55 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-25 13:39:55 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:39:55 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-25 13:40:04 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:40:04 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-25 13:40:04 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:40:04 | offline | Proceso::iniciar_sesion |  Detalle: Datos invalidos: 404
+2025-02-25 13:40:30 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:40:30 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 13:40:31 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 13:40:31 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 13:40:32 | Jose Angel  Sojo Dasco | Proceso::autorizar_usuario |  Detalle: Credenciales de autenticación alteradas.
+2025-02-25 13:41:31 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada
+2025-02-25 15:28:27 | offline | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:28:27 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 15:28:27 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:28:27 | Jose Angel  Sojo Dasco | Proceso::iniciar_sesion |  Detalle: Sesión de cliente inicializada
+2025-02-25 15:33:44 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:38:49 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:44:34 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:49:38 | Jose Angel  Sojo Dasco | Proceso::autenticar_clienteGUID |  Detalle: 000000Se ha iniciado sesión exitosamente.
+2025-02-25 15:54:46 | Jose Angel  Sojo Dasco | Proceso::cerrar_sesion |  Detalle: Sesión finalizada

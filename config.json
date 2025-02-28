@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "LIOR COSMETICS C.A.",
+        "rif": "J310849900",
+        "ClientGUI": "cd447c64-661b-4843-95e8-806800bbb0f0",
+        "MasterKey": "ccf217792a88a68a920d8f5b746ca93c",
+        "mysql": {
+            "host": "localhost",
+            "dbname": "bncvpos_lior_dev",
+            "user": "vpos_user",
+            "pass": "bNcVp0s_2045"
+        },
+        "sqlsrv": {
+            "server": "10.80.35.12",
+            "database": "DIL_A17",
+            "user": "Profit",
+            "pass": "profit"
+        },
+        "mantenimiento": false
+    }
+]

@@ -1,0 +1,163 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import "./mediaqueries.css";
+@keyframes animBg {
+  0% {
+    background-position: center;
+  }
+  25% {
+    background-position: top;
+  }
+  50% {
+    background-position: center;
+  }
+  75% {
+    background-position: bottom;
+  }
+  100% {
+    background-position: center;
+  }
+}
+body #bg-img {
+  width: 100%;
+  height: 100vh;
+  animation-name: animBg;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+  background-color: #835dad;
+  background-image: url("../img/bg01.jpg");
+  opacity: 0.5;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: multiply;
+}
+body #preloader-modal .modal-content {
+  width: -moz-fit-content !important;
+  width: fit-content !important;
+  margin: 0 auto;
+}
+body #preloader-modal .modal-content .modal-body {
+  padding: 3px;
+}
+body .invalid {
+  box-shadow: 0 0 5px red;
+}
+body section {
+  display: flex;
+  direction: nowrap;
+  flex-wrap: center;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body section .form-window {
+  width: 350px;
+  padding: 15px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5019607843);
+  text-align: center;
+}
+body section .form-window #forms-logo {
+  width: 150px;
+}
+body #pagos-header {
+  min-height: 100px;
+  display: flex;
+  direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1% 5%;
+  background-color: darkcyan;
+  color: #fff;
+  box-shadow: 0 2px 5px rgba(51, 51, 51, 0.5019607843);
+}
+body #pagos-header div:nth-child(1) {
+  display: flex;
+  direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+body #pagos-header div:nth-child(1) #main-logo {
+  height: 75px;
+  margin-right: 2%;
+}
+body #pagos-header div:nth-child(2) {
+  display: flex;
+  direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+body #pagos-header div:nth-child(2) button {
+  margin-left: 2%;
+}
+body #contenido {
+  display: flex;
+  flex-wrap: wrap;
+}
+body #contenido aside {
+  min-height: 90vh;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: rgb(225, 225, 225);
+}
+body #contenido aside .asideBtn {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  background-color: darkcyan;
+  border: 1px solid darkcyan;
+  border-radius: 5px;
+  color: #fff;
+}
+body #contenido aside .asideBtn:hover {
+  background-color: #fff;
+  color: darkcyan;
+  border: 1px solid darkcyan;
+}
+body #contenido main {
+  padding: 15px;
+}
+body #contenido main .mainBtn {
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: darkcyan;
+  border: 1px solid darkcyan;
+  border-radius: 5px;
+  color: #fff;
+}
+body #contenido main #historial-div,
+body #contenido main #p2p-div,
+body #contenido main #c2p-div,
+body #contenido main #reporte-pmov-div {
+  display: none;
+}
+body #contenido main #notas-entrega-div {
+  max-height: 250px;
+  overflow-y: auto;
+}
+body #contenido main .tipo-doc {
+  max-width: 80px !important;
+}
+body #detalles-pago-modal .modal-dialog {
+  max-width: 75vw;
+  font-size: 0.9em;
+}
+body #datos-pmov-modal .modal-content {
+  background-color: darkcyan;
+  color: #fff;
+}
+
+.hide {
+  display: none;
+}/*# sourceMappingURL=main.css.map */

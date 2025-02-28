@@ -1,0 +1,39 @@
+/* MINXINS */
+@media (max-width: 780px) {
+  #vpos-frm {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+  #resultado-div {
+    overflow-x: auto;
+  }
+  .modal-dialog {
+    max-width: 95% !important;
+  }
+  #detalles-pago-div {
+    overflow-x: auto;
+  }
+  aside {
+    display: flex;
+    justify-content: space-around;
+    min-height: 0 !important;
+  }
+  aside .asideBtn {
+    width: 40% !important;
+  }
+  aside #desktop-menu {
+    display: none;
+  }
+  aside #mobile-menu {
+    display: block !important;
+  }
+  table {
+    font-size: 0.7em;
+  }
+  table thead tr th {
+    padding: 0.5em;
+  }
+  table tbody tr td {
+    padding: 0.5em;
+  }
+}/*# sourceMappingURL=mediaqueries.css.map */

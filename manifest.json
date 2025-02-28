@@ -1,0 +1,35 @@
+{
+    "name": "Portal de Pagos Lior Cosmetics",
+    "short_name": "App pagos Lior",
+    "description": "La aplicación 'Portal de Pagos Lior Cosmetics' está diseñada para facilitar las transacciones y pagos en línea de los productos y servicios ofrecidos por la empresa. Los clientes pueden realizar pagos seguros y acceder a un historial completo de sus transacciones.",
+    "start_url": "/portalpagos_dev",
+    "display": "standalone",
+    "display_override": [
+        "fullscreen",
+        "minimal-ui"
+    ],
+    "lang": "es (Spanish)",
+    "dir": "ltr",
+    "background_color": "#008b8b",
+    "theme_color": "#008b8b",
+    "orientation": "portrait-primary",
+    "version": "1.0.0",
+    "author": "Lior Cosmetics",
+    "license": "MIT",
+    "homepage": "https://www.liorcosmetics.com",
+    "keywords": [
+        "pagos",
+        "cosméticos",
+        "Lior Cosmetics",
+        "transacciones",
+        "portal de pagos",
+        "cosmetics"
+    ],
+    "icons": [
+        {
+            "src": "./assets/img/favicon.ico",
+            "type": "image/png",
+            "sizes": "256x256"
+        }
+    ]
+}

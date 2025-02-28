@@ -1,0 +1,10 @@
+[
+    {
+        "server": "10.80.35.12",
+        "instance": null,
+        "db": "DIL_A17",
+        "user": "Profit",
+        "pass": "profit",
+        "port": 3306
+    }
+]
