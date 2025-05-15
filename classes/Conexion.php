@@ -33,10 +33,10 @@ class Conexion
     /**
      * Conexion con servidor MySQL
      */
-    public function conn_mysql(): mixed
+    public function conn_mysql()
     {
         $mysql  = $this->mysql;
-        $dsn    = "mysql:host={$mysql->host};dbname={$mysql->dbname}";
+        $dsn    = "mysql:host={$mysql->host};dbname={$mysql->dbname};charset=utf8mb4";
 
         try {
             $dbh = new PDO($dsn, $mysql->user, $mysql->pass);
