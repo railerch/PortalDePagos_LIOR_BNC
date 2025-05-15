@@ -1,4 +1,5 @@
 <?php
+
 function createHash($data)
 {
     $validation = hash('sha256', utf8_encode($data));

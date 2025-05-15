@@ -9,6 +9,7 @@ if (@$_SESSION['session_id']) {
 
 <head>
     <?php require("head.php") ?>
+    <script type="module" src="assets/js/login.js" defer></script>
     <title>Lior Pagos | Inicio</title>
 </head>
 
@@ -52,7 +53,7 @@ if (@$_SESSION['session_id']) {
                 <button
                     type="button"
                     id="install-app-btn"
-                    class="btn btn-sm btn-outline-primary mt-3" 
+                    class="btn btn-sm btn-outline-primary mt-3"
                     style="display:none">
                     Instalar APP <i class="bi bi-download"></i>
                 </button>

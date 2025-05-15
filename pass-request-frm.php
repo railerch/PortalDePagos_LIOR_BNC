@@ -3,6 +3,7 @@
 
 <head>
     <?php require("head.php") ?>
+    <script type="module" src="assets/js/pass-request.js" defer></script>
     <title>Lior Pagos | Registro</title>
 </head>
 

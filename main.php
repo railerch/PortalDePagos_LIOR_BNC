@@ -15,6 +15,8 @@ if (!$_SESSION["session_id"]) header("location: login.php");
 <head>
 
     <?php require("head.php") ?>
+    <script src="assets/js/sheet.js" defer></script>
+    <script type="module" src="assets/js/main.js" defer></script>
 
     <script type="text/javascript">
         // Validar ID de sesión

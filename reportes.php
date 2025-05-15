@@ -8,6 +8,10 @@ if (!$_SESSION["session_id"]) header("location: login.php");
 
 <head>
     <?php require("head.php") ?>
+    <script src="assets/js/sheet.js" defer></script>
+    <script type="module"  src="assets/js/reportes.js" defer></script>
+    <title>Reportes</title>
+
     <script type="text/javascript">
         // Validar ID de sesión
         if (!sessionStorage.getItem("sessionID")) {
@@ -15,7 +19,7 @@ if (!$_SESSION["session_id"]) header("location: login.php");
             fetch("controller.php?cerrar-sesion=true");
         };
     </script>
-    <title>Reportes</title>
+
 </head>
 
 <body>
