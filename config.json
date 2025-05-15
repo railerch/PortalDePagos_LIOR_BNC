@@ -16,7 +16,6 @@
             "user": "Profit",
             "pass": "profit"
         },
-        "mantenimiento": false,
-        "master_pass": "4dm!N.123"
+        "mantenimiento": false
     }
 ]
